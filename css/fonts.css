@@ -1,0 +1,9 @@
+/* Roboto */
+@font-face {
+	font-family: Poppins;	
+	src: url("../fonts/Poppins-Bold.ttf");
+}
+@font-face {
+	font-family: Poppins;	
+	src: url("../fonts/Poppins-Medium.ttf");
+}
